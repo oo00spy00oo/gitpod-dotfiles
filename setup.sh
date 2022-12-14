@@ -9,3 +9,6 @@ wget -O ${GITPOD_REPO_ROOT}/.gitpod/.gitpod-default.yml https://gist.githubuserc
 
 # Install packages via Homebrew
 brew install fzf croc yq
+
+# Mosh
+sudo apt install mosh -y
